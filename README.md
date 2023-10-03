@@ -53,7 +53,7 @@ El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocion
 
 4. Descargue [MySQL Workbench.](https://dev.mysql.com/downloads/workbench/)
 
-5. Clone el repositoria mediante el siguiente enlace: https://github.com/juanturriago7/challenge-one-alura-hotel-latam.git
+5. Clone el repositoria mediante el siguiente enlace: https://github.com/sdsanchez1/Challenge-Hotel.git
 
 6. Abra MySQL Workbench y crear la base de con el nombre hotel_alura_co y crear las tablas del documento bd.sql que se encuentra en el repo
 
